@@ -1,3 +1,3 @@
-- compsci major at sfu
-- experience with c++, js, html, css, and more
+- cs major at sfu
+- experience with c++, c, python, and more
 - looking for projects and research opportunities to participate in
